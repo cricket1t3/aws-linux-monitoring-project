@@ -21,7 +21,6 @@ This project implements a Linux-based monitoring and auto-recovery system deploy
 - CloudWatch monitoring
 
 ## Project Structure
-```text
 aws-linux-monitoring-project/
 ├── monitor_nginx.sh
 ├── README.md
